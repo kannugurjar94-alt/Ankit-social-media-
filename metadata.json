@@ -1,0 +1,6 @@
+{
+  "name": "AnkitVerse",
+  "description": "Production-ready social media app combining Instagram, CapCut, and YouTube Shorts with open audio reuse, live feeds, timeline video editor, iOS glassmorphism, and creator monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
